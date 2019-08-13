@@ -1,0 +1,2 @@
+# kubato
+project details
